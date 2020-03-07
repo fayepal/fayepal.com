@@ -1,22 +1,14 @@
 ---
-title: Check again
-date: "2019-11-22T22:12:03.284Z"
-description: "Check again"
+title: She works therefore she is
+date: "2020-03-07T22:12:03.284Z"
+description: "First post on the new blog "
 ---
 
-This is my first post on my new fake blog! How exciting!
+Oh hi.
+This will be for now a placeholder post to setup my new blog on Gatsby + GH Pages, to let go of my other blog that has been running on Wordpress. Which means, I am cutting on expenses for a hosting, yay!
 
-I'm sure I'll write a lot more interesting things in the future.
+Ok I lied, I have set this up for a while now but there was no urgency to move things until the deadline of the payment for the hosting, so here we are.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+Well, tbh it didn't cost that much. It's like what, USD 80 a year?
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
+It can be a bit sad to let go of that Wordpress blog since it kept all my stuff intact since 2011. But I guess it's better to hide your teenage angst from the Internet and put in the chest down the cellar where it belongs.

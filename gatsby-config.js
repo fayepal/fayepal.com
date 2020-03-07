@@ -1,9 +1,9 @@
 module.exports = {
   pathPrefix: "/fayepal.com",
   siteMetadata: {
-    title: `Faye's blog`,
-    author: `Faye Tandog`,
-    description: `Fayes blog`,
+    title: `Faye's Book`,
+    author: `Faye`,
+    description: `Thoughts and whatnot`,
     siteUrl: `https://fayepal.com/`,
     social: {
       twitter: `fayetandog`,
