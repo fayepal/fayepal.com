@@ -9,8 +9,6 @@ twinPeaksTheme.overrideThemeStyles = () => {
   }
 }
 
-delete twinPeaksTheme.googleFonts;
-
 const typography = new Typography(twinPeaksTheme)
 
 // Hot reload typography in development.
