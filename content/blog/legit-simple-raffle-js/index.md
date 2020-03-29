@@ -1,7 +1,7 @@
 ---
 title: How to create a simple raffle draw in JavaScript
 date: "2020-03-14T12:12:03.284Z"
-description: "Because apparently all the tutorials on the Internet is full of toppings, here's the straightforward AF tutorial on how to create the simplest ever raffle on the Internet using JavaScript"
+description: "Because apparently all the tutorials on the Internet are full of extra toppings we don't really need, here's a straightforward tutorial on how to create the simplest ever raffle on the Internet using JavaScript"
 ---
 
 This is a no frills example of how to make a simple raffle draw in JS using `math.Random()`.
