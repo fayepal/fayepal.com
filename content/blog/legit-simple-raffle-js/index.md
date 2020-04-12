@@ -16,6 +16,7 @@ const prompts = [
     'Raffle Item 2 here'
     'Just add stuff per line'
 ];
+
 const total = prompts.length;
 const btn = document.getElementById('roll');
 const promptDisplay = document.getElementById('prompt');
