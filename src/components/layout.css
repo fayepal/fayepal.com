@@ -1,0 +1,37 @@
+body{
+    font-family: 'Avenir',sans-serif;
+    font-size: 1.2em;
+}
+h1,h3 {
+    font-family: 'Avenir',sans-serif;
+    font-weight: 800;
+    color: #33598a;
+}
+h2{
+    font-family: 'Avenir',sans-serif;
+    font-weight: 500;
+}
+
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+    color:inherit;
+}
+a:hover {
+    text-decoration: none; 
+    color: #8faed6;
+}
+
+code{
+    background-color: #dae4f1;
+    font-size:inherit;
+}
+
+pre {
+    background-color: #dae4f1;
+    font-size:inherit;
+    white-space: pre-wrap;
+    padding:20px;
+}

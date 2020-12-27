@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import "./layout.css"
 
 import { rhythm, scale } from "../utils/typography"
 
@@ -34,7 +35,6 @@ class Layout extends React.Component {
       header = (
         <h3
           style={{
-            fontFamily: `Rosario, sans-serif`,
             marginTop: 0,
           }}
         >

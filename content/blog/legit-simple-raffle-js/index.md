@@ -1,14 +1,14 @@
 ---
 title: How to create a simple raffle draw in JavaScript
 date: "2020-03-14T12:12:03.284Z"
-description: "Because apparently all the tutorials on the Internet are full of extra toppings we don't really need, here's a straightforward tutorial on how to create the simplest ever raffle on the Internet using JavaScript"
+description: "A straightforward tutorial on how to create the simplest ever raffle on the Internet using JavaScript"
 ---
 
 This is a no frills example of how to make a simple raffle draw in JS using `math.Random()`.
 
 ## JS
 
-Here I called it `prompts` because I was working on a conversation prompt.
+Here I called it `prompts` because I was working on a conversation prompt. I named the file `raffle.js`
 
 ```JavaScript
 const prompts = [
@@ -32,7 +32,7 @@ btn.addEventListener('click', raffle)
 ```HTML
 <html>
 <head>
-<link rel="stylesheet" href="style.css"> </style>
+   <title>My Conversation Prompt</title>
 </head>
 <body>
   <a href="#" id="roll">Select</a>
