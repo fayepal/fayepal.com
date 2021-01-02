@@ -12,13 +12,9 @@ h2{
     font-weight: 500;
 }
 
-a:link {
+a, a:visited {
     text-decoration: none;
-    color:inherit;
-}
-a:visited {
-    text-decoration: none;
-    color:inherit;
+    color:#3775c7;
 }
 a:hover {
     text-decoration: none; 
