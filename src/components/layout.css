@@ -1,20 +1,21 @@
+@import "../css/typography.css";
+
 body{
-    font-family: 'Avenir',sans-serif;
+    font-family: 'Nunito Regular',sans-serif;
     font-size: 1.2em;
 }
 h1,h3 {
-    font-family: 'Avenir',sans-serif;
-    font-weight: 800;
+    font-family: 'Nunito Extrabold',sans-serif;
     color: #33598a;
+    font-weight: 400;
 }
 h2{
-    font-family: 'Avenir',sans-serif;
-    font-weight: 500;
+    font-family: 'Nunito Semibold',sans-serif;
 }
 
 a, a:visited {
     text-decoration: none;
-    color:#3775c7;
+    color:#33598a;
 }
 a:hover {
     text-decoration: none; 
