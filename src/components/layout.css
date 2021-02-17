@@ -33,3 +33,8 @@ pre {
     white-space: pre-wrap;
     padding:20px;
 }
+
+footer {
+    color: rgb(182, 182, 182);
+    font-size: 0.5em;
+}
