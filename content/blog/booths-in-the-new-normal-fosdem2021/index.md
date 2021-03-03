@@ -29,7 +29,7 @@ For FOSDEM, standholders can publish their schedule along with the official conf
 
 ## 2. Promote aggressively on social media
 
-If most of the conference goers are active on social or it’s as free as FOSDEM where people can easily become attendees, make sure you have a small plan to promote your booth and your activities there.
+If most of the conference goers are active on social, make sure you have a small plan to promote your booth and your activities there. Use the keywords and hashtags that attendees would look out for and jump into the bandwagon. Take advantage of this situation especially if the event is as free as FOSDEM where people can easily become attendees. But of course, don't spam unnecessarily.
 
 You can publish your schedule days before and amplify it by posting about your schedule for the day, what is going on and what’s next. If you can, post about the small details of what’s happening right now in your booth. Don’t forget to tell people how to join, and make it as simple as possible.
 
@@ -47,7 +47,7 @@ Welcome to the Checkmk stand , (name)! We’re doing a live demo right now. Feel
 
 When we do physical booths, we just wait until people come in and then we start talking. One could easily assume that virtual booths will run the same, that people will enter the room and declare what they are here for. Not exactly true. In physical booths, they can see people behind the booth, what they are up to, so they can make judgments on how they should interact. Being quiet in a virtual booth means well… being quiet. No one can see anything and get some context on how this booth works. That’s why the previous point is important, as it orients people of what’s going on in this virtual space.
 
-Post about what’s going on and what’s coming next. Repeat them at healthy intervals (e.g. don't post about it every minute or while some people are having a convo on the chat). This quickly tells people that there are actually people at the booth and there’s stuff going on.
+First, make sure that the booth team can be recognized. In chat format, it can be as simple as putting your organization's name on your display name. Next, post about what’s going on and what’s coming next. Repeat them at healthy intervals (e.g. don't post about it every minute or while some people are having a convo on the chat). This quickly tells people that there are actually people at the booth and there’s stuff going on.
 
 ## Bonus: Extra preparations for backup conference rooms and 1-on-1 sessions
 
