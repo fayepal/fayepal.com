@@ -4,11 +4,9 @@ date: "2021-04-02T12:12:03.284Z"
 description: "A practical structure and process of planning marketing campaigns, suitable for tech companies who are just starting out."
 ---
 
-We recently launched a marketing campaign for work and while I have experienced implementing campaigns before, I realized planning one is a whole different story. I had to reverse engineer the campaigns I participated in to even figure out the keywords that I should research in order to give a structure to our campaign concept. So here's what I came up with. At least as of writing, I think that this structure is the simplest and most raw it can get, and newbie campaign managers can easily use this as a starting point to conceptualize elaborate campaigns.
+We recently launched a marketing campaign for work and while I have experienced implementing campaigns before, I realized planning one is a whole different story. I had to reverse engineer the campaigns I participated in to even figure out the keywords that I should research in order to give a structure to our campaign concept. 
 
-## Let's get to know the key campaign documents
-
-Here are the main pillars of the campaign. I think what I called them here is pretty much the industry standard, but of course depending on your situation you might have to combine or divide them.
+So here's what I came up with. I have listed down the documents and assets that serve as the pillars of the campaign. At least as of writing, I think that what I structured here is the simplest and most raw it can get, and newbie campaign managers can easily use this as a starting point to conceptualize elaborate campaigns.How I named them here is pretty much the industry standard, but of course depending on your situation you might have to combine or divide them.
 
 ### Strategy Brief
 This document helps you define the scope of the campaign and give context to you and your team. This is especially helpful when you haven't done a campaign before and you don't have a previous campaign as a reference. Here, you give some context on the 'why' of this campaign; where your organization stand right now, what opportunity you see, and what problem/s you want to solve. 
@@ -50,3 +48,5 @@ To support our ads, landing pages and claims in any copy we write, we need to be
 
 ### Performance Tracking
 Now that you have everything set, of course you want to measure the impact of the campaign you worked hard on! In this part, you set how you plan to track the performance of your content or any marketing activity you have designed for your campaign. Also decide with the team the schedule of when you check this and implement changes necessary.
+
+That's it. Happy campaigning!

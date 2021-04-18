@@ -29,3 +29,5 @@ I work 9-6 (-ish). I notice that for many people, with this home office setup, i
 ## 4. I simply thrive in setups where written communication is a norm
 
 This one I would really attribute to my volunteer work. I love to write! I would choose that than speaking face-to-face (in-person) with another person anytime. I actually felt more connected to the company as a whole when everyone started being on Slack. I see what they are doing/talking about and I can have some peek at what they are working on via our wiki. I feel more updated and I feel that this wouldn't be ever possible in the physical setup where you are divided by walls (and buildings). Also hey, it's difficult to share memes and use the reaction GIFs you have in stock in real life.
+
+That's it for now, but I'll probably realize more here in the next months because this pandemic will take a while 🥴.

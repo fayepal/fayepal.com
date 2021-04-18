@@ -4,15 +4,14 @@ body{
     font-family: 'Nunito Regular',sans-serif;
     font-size: 1.2em;
 }
-h1,h3 {
-    font-family: 'Nunito Extrabold',sans-serif;
+h1,h2 {
+    font-family: 'Poppins Medium',sans-serif;
     color: #33598a;
-    font-weight: 400;
 }
-h2{
-    font-family: 'Nunito Semibold',sans-serif;
+h3{
+    font-family: 'Poppins',sans-serif;
+    color: #33598a;  
 }
-
 a, a:visited {
     text-decoration: none;
     color:#33598a;

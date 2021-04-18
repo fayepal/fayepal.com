@@ -11,3 +11,11 @@
     font-family: "Nunito Semibold";
     src: url("../fonts/Nunito-SemiBold.ttf");
   }
+  @font-face {
+    font-family: "Poppins Medium";
+    src: url("../fonts/Poppins-Medium.ttf");
+  }
+  @font-face {
+    font-family: "Poppins";
+    src: url("../fonts/Poppins-Regular.ttf");
+  }

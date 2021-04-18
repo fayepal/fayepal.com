@@ -8,7 +8,9 @@ class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
     const rootPath = `${__PATH_PREFIX__}/`
-    let header
+    const blogPath = `${__PATH_PREFIX__}/blog`
+    let header;
+    const isList = location.pathname === blogPath;
 
     if (location.pathname === rootPath) {
 
@@ -25,7 +27,7 @@ class Layout extends React.Component {
               textDecoration: `none`,
               color: `inherit`,
             }}
-            to={`/`}
+            to={isList ? `/` : `/blog`}
           >
             {title}
           </Link>
